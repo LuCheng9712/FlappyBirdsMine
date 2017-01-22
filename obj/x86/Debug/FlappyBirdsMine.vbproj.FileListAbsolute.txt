@@ -1,0 +1,52 @@
+C:\Users\127-LCHENG\AppData\Local\Temporary Projects\FlappyBirdsMine\bin\Debug\FlappyBirdsMine.exe
+C:\Users\127-LCHENG\AppData\Local\Temporary Projects\FlappyBirdsMine\bin\Debug\FlappyBirdsMine.pdb
+C:\Users\127-LCHENG\AppData\Local\Temporary Projects\FlappyBirdsMine\bin\Debug\FlappyBirdsMine.xml
+C:\Users\127-LCHENG\AppData\Local\Temporary Projects\FlappyBirdsMine\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\127-LCHENG\AppData\Local\Temporary Projects\FlappyBirdsMine\obj\x86\Debug\FlappyBirdsMine.Form1.resources
+C:\Users\127-LCHENG\AppData\Local\Temporary Projects\FlappyBirdsMine\obj\x86\Debug\FlappyBirdsMine.Resources.resources
+C:\Users\127-LCHENG\AppData\Local\Temporary Projects\FlappyBirdsMine\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\127-LCHENG\AppData\Local\Temporary Projects\FlappyBirdsMine\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\127-LCHENG\AppData\Local\Temporary Projects\FlappyBirdsMine\obj\x86\Debug\FlappyBirdsMine.exe
+C:\Users\127-LCHENG\AppData\Local\Temporary Projects\FlappyBirdsMine\obj\x86\Debug\FlappyBirdsMine.xml
+C:\Users\127-LCHENG\AppData\Local\Temporary Projects\FlappyBirdsMine\obj\x86\Debug\FlappyBirdsMine.pdb
+M:\Programming11\Projects\Projects\FlappyBirdsMine\FlappyBirdsMine\obj\x86\Debug\FlappyBirdsMine.exe
+M:\Programming11\Projects\Projects\FlappyBirdsMine\FlappyBirdsMine\obj\x86\Debug\FlappyBirdsMine.xml
+M:\Programming11\Projects\Projects\FlappyBirdsMine\FlappyBirdsMine\obj\x86\Debug\FlappyBirdsMine.pdb
+M:\Programming11\Projects\Projects\FlappyBirdsMine\FlappyBirdsMine\bin\Debug\FlappyBirdsMine.exe
+M:\Programming11\Projects\Projects\FlappyBirdsMine\FlappyBirdsMine\bin\Debug\FlappyBirdsMine.pdb
+M:\Programming11\Projects\Projects\FlappyBirdsMine\FlappyBirdsMine\bin\Debug\FlappyBirdsMine.xml
+M:\Programming11\Projects\Projects\FlappyBirdsMine\FlappyBirdsMine\obj\x86\Debug\ResolveAssemblyReference.cache
+M:\Programming11\Projects\Projects\FlappyBirdsMine\FlappyBirdsMine\obj\x86\Debug\FlappyBirdsMine.Form1.resources
+M:\Programming11\Projects\Projects\FlappyBirdsMine\FlappyBirdsMine\obj\x86\Debug\FlappyBirdsMine.Resources.resources
+M:\Programming11\Projects\Projects\FlappyBirdsMine\FlappyBirdsMine\obj\x86\Debug\GenerateResource.read.1.tlog
+M:\Programming11\Projects\Projects\FlappyBirdsMine\FlappyBirdsMine\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Programming11\Need\Projects\FlappyBirdsMine\FlappyBirdsMine\obj\x86\Debug\FlappyBirdsMine.exe
+E:\Programming11\Need\Projects\FlappyBirdsMine\FlappyBirdsMine\obj\x86\Debug\FlappyBirdsMine.xml
+E:\Programming11\Need\Projects\FlappyBirdsMine\FlappyBirdsMine\obj\x86\Debug\FlappyBirdsMine.pdb
+E:\Programming11\Need\Projects\FlappyBirdsMine\FlappyBirdsMine\bin\Debug\FlappyBirdsMine.exe
+E:\Programming11\Need\Projects\FlappyBirdsMine\FlappyBirdsMine\bin\Debug\FlappyBirdsMine.pdb
+E:\Programming11\Need\Projects\FlappyBirdsMine\FlappyBirdsMine\bin\Debug\FlappyBirdsMine.xml
+E:\Programming11\Need\Projects\FlappyBirdsMine\FlappyBirdsMine\obj\x86\Debug\FlappyBirdsMine.Form1.resources
+E:\Programming11\Need\Projects\FlappyBirdsMine\FlappyBirdsMine\obj\x86\Debug\FlappyBirdsMine.Resources.resources
+E:\Programming11\Need\Projects\FlappyBirdsMine\FlappyBirdsMine\obj\x86\Debug\FlappyBirdsMine.vbproj.GenerateResource.Cache
+E:\Programming11\Projects\Projects\FlappyBirdsMine\FlappyBirdsMine\obj\x86\Debug\FlappyBirdsMine.exe
+E:\Programming11\Projects\Projects\FlappyBirdsMine\FlappyBirdsMine\obj\x86\Debug\FlappyBirdsMine.xml
+E:\Programming11\Projects\Projects\FlappyBirdsMine\FlappyBirdsMine\obj\x86\Debug\FlappyBirdsMine.pdb
+E:\Programming11\Projects\Projects\FlappyBirdsMine\FlappyBirdsMine\bin\Debug\FlappyBirdsMine.exe
+E:\Programming11\Projects\Projects\FlappyBirdsMine\FlappyBirdsMine\bin\Debug\FlappyBirdsMine.pdb
+E:\Programming11\Projects\Projects\FlappyBirdsMine\FlappyBirdsMine\bin\Debug\FlappyBirdsMine.xml
+E:\Programming11\Projects\Projects\FlappyBirdsMine\FlappyBirdsMine\obj\x86\Debug\FlappyBirdsMine.Form1.resources
+E:\Programming11\Projects\Projects\FlappyBirdsMine\FlappyBirdsMine\obj\x86\Debug\FlappyBirdsMine.Resources.resources
+E:\Programming11\Projects\Projects\FlappyBirdsMine\FlappyBirdsMine\obj\x86\Debug\FlappyBirdsMine.vbproj.GenerateResource.Cache
+M:\Programming11\Projects\Projects\FlappyBird\FlappyBirdsMine\FlappyBirdsMine\obj\x86\Debug\FlappyBirdsMine.exe
+M:\Programming11\Projects\Projects\FlappyBird\FlappyBirdsMine\FlappyBirdsMine\obj\x86\Debug\FlappyBirdsMine.xml
+M:\Programming11\Projects\Projects\FlappyBird\FlappyBirdsMine\FlappyBirdsMine\obj\x86\Debug\FlappyBirdsMine.pdb
+G:\Programming11\Projects\Projects\FlappyBird\FlappyBirdsMine\FlappyBirdsMine\obj\x86\Debug\FlappyBirdsMine.exe
+G:\Programming11\Projects\Projects\FlappyBird\FlappyBirdsMine\FlappyBirdsMine\obj\x86\Debug\FlappyBirdsMine.xml
+G:\Programming11\Projects\Projects\FlappyBird\FlappyBirdsMine\FlappyBirdsMine\obj\x86\Debug\FlappyBirdsMine.pdb
+G:\Programming11\Projects\Projects\FlappyBird\FlappyBirdsMine\FlappyBirdsMine\bin\Debug\FlappyBirdsMine.exe
+G:\Programming11\Projects\Projects\FlappyBird\FlappyBirdsMine\FlappyBirdsMine\bin\Debug\FlappyBirdsMine.pdb
+G:\Programming11\Projects\Projects\FlappyBird\FlappyBirdsMine\FlappyBirdsMine\bin\Debug\FlappyBirdsMine.xml
+G:\Programming11\Projects\Projects\FlappyBird\FlappyBirdsMine\FlappyBirdsMine\obj\x86\Debug\FlappyBirdsMine.Form1.resources
+G:\Programming11\Projects\Projects\FlappyBird\FlappyBirdsMine\FlappyBirdsMine\obj\x86\Debug\FlappyBirdsMine.Resources.resources
+G:\Programming11\Projects\Projects\FlappyBird\FlappyBirdsMine\FlappyBirdsMine\obj\x86\Debug\FlappyBirdsMine.vbproj.GenerateResource.Cache
